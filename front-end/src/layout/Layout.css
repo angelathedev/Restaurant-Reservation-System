@@ -1,0 +1,44 @@
+/* Navigation */
+
+.side-bar {
+  background-color: #1B1B1E;
+  min-width: 200px;
+}
+
+.sidebar-brand-text {
+  font-size: 20px;
+  text-align: left;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+/* Headings */
+
+h1, h2 {
+  color: black;
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+/* Table and Reservation Cards */
+
+.card-header {
+  background-color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  font-size: 25px;
+}
+
+.card {
+  background-color: lightgray;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+ /* Containers */
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
